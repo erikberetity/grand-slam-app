@@ -1,0 +1,73 @@
+[
+    {
+      "name": "Australian Open",
+      "country": "Australia",
+      "category": "Grand Slam",
+      "startDate": 1672876800,
+      "tier": 1
+    },
+    {
+      "name": "French Open",
+      "country": "France",
+      "category": "Grand Slam",
+      "startDate": 1676304000,
+      "tier": 1
+    },
+    {
+      "name": "Wimbledon",
+      "country": "United Kingdom",
+      "category": "Grand Slam",
+      "startDate": 1679164800,
+      "tier": 1
+    },
+    {
+      "name": "US Open",
+      "country": "USA",
+      "category": "Grand Slam",
+      "startDate": 1682860800,
+      "tier": 1
+    },
+    {
+      "name": "Indian Wells",
+      "country": "USA",
+      "category": "ATP 1000",
+      "startDate": 1674777600,
+      "tier": 2
+    },
+    {
+        "name": "Australian Open",
+        "country": "Australia",
+        "category": "Grand Slam",
+        "startDate": 1672876800,
+        "tier": 1
+      },
+      {
+        "name": "French Open",
+        "country": "France",
+        "category": "Grand Slam",
+        "startDate": 1676304000,
+        "tier": 1
+      },
+      {
+        "name": "Wimbledon",
+        "country": "United Kingdom",
+        "category": "Grand Slam",
+        "startDate": 1679164800,
+        "tier": 1
+      },
+      {
+        "name": "US Open",
+        "country": "USA",
+        "category": "Grand Slam",
+        "startDate": 1682860800,
+        "tier": 1
+      },
+      {
+        "name": "Indian Wells",
+        "country": "USA",
+        "category": "ATP 1000",
+        "startDate": 1674777600,
+        "tier": 2
+      }
+  ]
+  

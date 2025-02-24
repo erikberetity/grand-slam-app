@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Novak Djokovic",
+    "rank": 1,
+    "country": "Serbia",
+    "points": 8000
+  },
+  {
+    "name": "Rafael Nadal",
+    "rank": 2,
+    "country": "Spain",
+    "points": 7500
+  },
+  {
+    "name": "Roger Federer",
+    "rank": 3,
+    "country": "Switzerland",
+    "points": 7000
+  },
+  {
+    "name": "Carlos Alcaraz",
+    "rank": 4,
+    "country": "Spain",
+    "points": 6500
+  },
+  {
+    "name": "Daniil Medvedev",
+    "rank": 5,
+    "country": "Russia",
+    "points": 6000
+  },
+  {
+    "name": "Novak Djokovic",
+    "rank": 1,
+    "country": "Serbia",
+    "points": 8000
+  },
+  {
+    "name": "Rafael Nadal",
+    "rank": 2,
+    "country": "Spain",
+    "points": 7500
+  },
+  {
+    "name": "Roger Federer",
+    "rank": 3,
+    "country": "Switzerland",
+    "points": 7000
+  },
+  {
+    "name": "Carlos Alcaraz",
+    "rank": 4,
+    "country": "Spain",
+    "points": 6500
+  }
+]
