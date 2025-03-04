@@ -1,13 +1,6 @@
 // app/auth/signup/page.tsx
-import SignUpForm from '../SignUpForm';
+import { SignUp } from '@/components/auth/SignUp';
 
-const SignUpPage = () => {
-  return (
-    <div>
-      <h2>Sign Up Page</h2>
-      <SignUpForm />
-    </div>
-  );
-};
-
-export default SignUpPage;
+export default function SignUpPage() {
+  return <SignUp />;
+}
